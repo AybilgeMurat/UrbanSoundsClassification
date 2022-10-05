@@ -11,7 +11,9 @@ In addition to the sound excerpts, a CSV file containing metadata about each exc
 You can visit the site for more details. --->  https://urbansounddataset.weebly.com/urbansound8k.html
 
 
-Results
+RESULTS
+
+
 ![Ekran görüntüsü 2022-10-05 174847](https://user-images.githubusercontent.com/58533563/194091109-72e1b636-0b99-499a-b411-07e184cf27bc.jpg)
 
 ![indir (1)](https://user-images.githubusercontent.com/58533563/194091138-a438ef55-33da-4b61-932b-11273b3173d6.png)
