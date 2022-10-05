@@ -8,17 +8,11 @@ The files are pre-sorted into ten folds (folders named fold1-fold10) to help in 
 
 In addition to the sound excerpts, a CSV file containing metadata about each excerpt is also provided.
 
-A numeric identifier of the sound class:
-0 = air_conditioner
-1 = car_horn
-2 = children_playing
-3 = dog_bark
-4 = drilling
-5 = engine_idling
-6 = gun_shot
-7 = jackhammer
-8 = siren
-9 = street_music
-
 You can visit the site for more details. --->  https://urbansounddataset.weebly.com/urbansound8k.html
 
+
+Results
+![Ekran görüntüsü 2022-10-05 174847](https://user-images.githubusercontent.com/58533563/194091109-72e1b636-0b99-499a-b411-07e184cf27bc.jpg)
+
+![indir (1)](https://user-images.githubusercontent.com/58533563/194091138-a438ef55-33da-4b61-932b-11273b3173d6.png)
+![indir](https://user-images.githubusercontent.com/58533563/194091151-88e423f0-685f-4a6f-8716-180c46da71ef.png)
