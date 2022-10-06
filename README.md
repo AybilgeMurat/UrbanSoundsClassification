@@ -20,8 +20,8 @@ RESULTS
 ![indir](https://user-images.githubusercontent.com/58533563/194091151-88e423f0-685f-4a6f-8716-180c46da71ef.png)
 
 
-contributors
-Yasmin Yağmur Karslı
-Öykü Su Ötnü
-Betül Bürcü
+contributors:
+Yasmin Yağmur Karslı,
+Öykü Su Ötnü,
+Betül Bürcü,
 Şevval Ekinci
