@@ -23,5 +23,4 @@ RESULTS
 contributors:
 Yasmin Yağmur Karslı,
 Öykü Su Ötnü,
-Betül Bürcü,
-Şevval Ekinci
+Betül Bürcü
